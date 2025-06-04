@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhav Malladi</h1>
 <h3 align="center">An aspiring Software Engineer</h3>
 
-- 🔭 I’m currently a student at **Rutgers University-New Brunswick**
+- 🔭 I’m currently studying Computer Science at **Rutgers University-New Brunswick**
 
 - 🌱 I’m interested in **AI, Machine Learning, Web Development, Fintech, and more!**
 
