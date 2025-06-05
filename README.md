@@ -5,7 +5,7 @@
 
 - 🌱 I’m interested in **AI, Machine Learning, Web Development, Fintech, and more!**
 
-- 📄 My Resume **https://drive.google.com/file/d/1dM7JXShDnGI6-6uFKDCuDANrud0oq5s3/view**
+- 📄 My Resume **[Google Drive Link](https://drive.google.com/file/d/1u1UYH5QZ1WTaK8uWqUcICxfo09LiS7d6/view?usp=sharing)**
 
 - 👨‍💻 Portfolio Website: [https://madhavmalladi.github.io/Personal-Website-V2/](https://madhavmalladi.github.io/Personal-Website-V2/)
 
