@@ -7,7 +7,7 @@
 
 - 📄 My Resume **[Google Drive Link](https://drive.google.com/file/d/1u1UYH5QZ1WTaK8uWqUcICxfo09LiS7d6/view?usp=sharing)**
 
-- 👨‍💻 Portfolio Website: [https://madhavmalladi.github.io/Personal-Website-V2/](https://madhavmalladi.github.io/Personal-Website-V2/)
+- 👨‍💻 Portfolio Website: [https://madhavmalladi.com](https://madhavmalladi.com)
 
 - 📫 How to reach me **madhav.malladi25@gmail.com | madhav.malladi@rutgers.edu**
 
