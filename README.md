@@ -3,7 +3,7 @@
 
 - CS & Math @ **Rutgers University-New Brunswick**
 
-- Interested in **Distributed Systems and AI Infra**
+- Interested in **Distributed Systems and AI/ML Infra**
 
 - Portfolio Website: [https://madhavmalladi.com](https://madhavmalladi.com)
 
