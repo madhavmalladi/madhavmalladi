@@ -1,12 +1,12 @@
 <h1 align="center">Madhav Malladi</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently studying Computer Science at **Rutgers University-New Brunswick**
+- CS & Math @ **Rutgers University-New Brunswick**
 
-- 🌱 I’m interested in **AI, Machine Learning, Web Development, Fintech, and more!**
+- Interested in **Distributed Systems and AI Infra**
 
-- 👨‍💻 Portfolio Website: [https://madhavmalladi.com](https://madhavmalladi.com)
+- Portfolio Website: [https://madhavmalladi.com](https://madhavmalladi.com)
 
-- 📫 How to reach me **madhav.malladi25@gmail.com | madhav.malladi@rutgers.edu**
+- How to reach me **madhav.malladi25@gmail.com | madhav.malladi@rutgers.edu**
 
 - https://www.linkedin.com/in/madhav-malladi/
